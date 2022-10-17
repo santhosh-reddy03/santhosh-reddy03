@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santhosh-reddy03
 - 👀 I’m interested in machine learning, cloud, linux and opensource
-- 🌱 I’m currently learning data structures and algorithms, preparing to become azure solution architect by the end of this year
+- 🌱 I’m currently learning data structures and algorithms, preparing to become azure solutions architect by the end of this year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : santhoshreddy923@gmail.com
 
