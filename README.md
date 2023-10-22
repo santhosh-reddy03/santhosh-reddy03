@@ -1,10 +1,14 @@
 ### Intro
 
-    👋 Hi, I’m Santhosh Reddy Barla
-    👀 I’m interested in cloud, web-development, linux and opensource
-    🎓 A Mechanical Engineering gradauate who turned into a full time software engineer for my love towards problem solving.
-    📜 I'm also AWS certified developer associate and Azure certified aminstrator.
-    💻 My main languages are Python 🐍 and TypeScript but i also tinker and learn other stuff in my free time.
+👋 Hi, I’m Santhosh Reddy Barla
+
+👀 I’m interested in cloud, web-development, linux and opensource
+
+🎓 A Mechanical Engineering gradauate who turned into a full time software engineer for my love towards problem solving.
+
+📜 I'm also AWS certified developer associate and Azure certified aminstrator.
+
+💻 My main languages are Python 🐍 and TypeScript but i also tinker and learn other stuff in my free time.
 
 ### 📫 How to reach me
 
