@@ -6,7 +6,7 @@
 
 🎓 A Mechanical Engineering gradauate who turned into a full time software engineer for my love towards problem solving.
 
-📜 I'm also AWS certified developer associate and Azure certified aminstrator.
+📜 I'm also AWS certified developer associate and Azure certified adminstrator.
 
 💻 My main languages are Python 🐍 and TypeScript but i also tinker and learn other stuff in my free time.
 
