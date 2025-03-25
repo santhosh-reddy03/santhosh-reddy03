@@ -4,7 +4,7 @@
 
 👀 I’m interested in cloud, web-development, linux and opensource
 
-🎓 A Mechanical Engineering gradauate who turned into a full time software engineer for my love towards problem solving.
+🎓 A Mechanical Engineering gradauate who turned into a full time software development engineer for my love towards problem solving.
 
 📜 I'm also AWS certified developer associate and Azure certified adminstrator.
 
